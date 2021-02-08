@@ -1,5 +1,5 @@
 # Impotant 
-Reading and Learning every single day, knowledge is important than imiganation,
+Reading and Learning every single day, knowledge is important.
 
  ## Non-fiction Books
 
