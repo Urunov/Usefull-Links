@@ -12,6 +12,7 @@ Reading and Learning every single day, knowledge is important.
    | Title  | Address  | Reading |
    | :---        |    :----:   |   :----: |
    | Patterns of Enterprise Application Architecuture| [pick up](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)| Reading|
+   | Clean Code | [pick up](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)| Reading|
 
 ## Resources to become Better Software Engineer
    | Title  | Address  | Reading |
