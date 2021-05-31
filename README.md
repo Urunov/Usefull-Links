@@ -12,8 +12,9 @@ Reading and Learning every single day, knowledge is important.
    | Title  | Address  | Reading |
    | :---        |    :----:   |   :----: |
    | Patterns of Enterprise Application Architecuture| [pick up](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)| Reading|
-   | Clean Code | [pick up](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)| Reading|
-
+   | Clean Code | [pick up](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)| Done|
+   | Learning React | [pick up](https://www.amazon.com/Learning-React-Functional-Development-Redux/dp/1491954620)| Done|
+   | 5 Practical React Project | [pick up](https://www.amazon.com/Practical-React-Projects-Nirmalya-Ghosh-ebook/dp/B0778YMKMR/ref=sr_1_1?dchild=1&keywords=5+Practical+React+Projects&qid=1622427586&s=books&sr=1-1)| Reading|
 ## Resources to become Better Software Engineer
    | Title  | Address  | Reading |
    | :---        |    :----:   |   :----: |
