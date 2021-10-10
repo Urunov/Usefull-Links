@@ -9,7 +9,7 @@ Reading and Learning every single day, knowledge is important.
    | Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career | [pick up](https://www.goodreads.com/book/show/44770129-ultralearning)| Done|
    | Корейская волна | [pick up](https://eksmo.ru/book/rozhdenie-krutoy-korei-ITD1120811/) | Done|
    | «Вторжение. Краткая история русских хакеров» Отрывок из книги Даниила Туровского о главном спамере России и его связях с ФСБ| [pick up](https://www.the-village.ru/weekend/books/351755-kniga/) | Done|
-   |  ДУМАЙ, КАК ЭЙНШТЕЙН, ДЭНИЭЛ СМИТ| [pick up](https://profilib.org/chtenie/42162/deniel-smit-dumay-kak-eynshteyn.php/) | Reading|
+   |  ДУМАЙ, КАК ЭЙНШТЕЙН, ДЭНИЭЛ СМИТ| [pick up](https://profilib.org/chtenie/42162/deniel-smit-dumay-kak-eynshteyn.php/) | Done|
    |  Deep Work Cal Newport| [pick up](https://www.calnewport.com/books/deep-work/)| Done|
    
    
@@ -32,5 +32,5 @@ Reading and Learning every single day, knowledge is important.
    |Competitive Programmer’s Handbook|[pick up](https://cses.fi/book/book.pdf)| Reading|
 ##
 
-Last Update (07.10.2021)
+Last Update (10.10.2021)
       
