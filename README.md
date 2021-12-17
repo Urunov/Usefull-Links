@@ -29,8 +29,8 @@ Reading and Learning every single day, knowledge is important.
    | :---        |    :----:   |   :----: |
    |Intoduction to Algorithms | [pick up](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?crid=2DW8QXJO4TMI&dchild=1&keywords=introduction+of+algorithms&qid=1612743435&sprefix=Introduction+of+algo%2Cstripbooks-intl-ship%2C338&sr=8-1)| Reading |
    | Data Structures and Algorithms in Java 2nd Edition| [pick up](https://www.amazon.com/Data-Structures-Algorithms-Java-Drozdek/dp/0534492525) | Reading |
-   |Competitive Programmer’s Handbook|[pick up](https://cses.fi/book/book.pdf)| Reading|
+   |Competitive Programmer’s Handbook|[pick up](https://cses.fi/book/book.pdf)| Done|
 ##
 
-Last Update (10.10.2021)
+Last Update (17.12.2021)
       
