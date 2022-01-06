@@ -23,6 +23,7 @@ Reading and Learning every single day, knowledge is important.
    |Object-Oriented Analysis and Design with Applications Third Edition|[pick up](https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X)|Reading|
    |Thinking in Java | [pick up](https://www.amazon.com/Thinking-java-Daniel-Daviston-ebook/dp/B08XXXSK9T/ref=sr_1_7?dchild=1&keywords=thinking+in+java&qid=1631151359&s=books&sr=1-7)|Reading|
   |Design Pattern Elements of Reusable Object-Oriented Software | [pick up](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)|Reading|
+  |Dive Into DESIGN PATTERNS |[pick up](https://www.goodreads.com/en/book/show/43125355)| Reading|
    
 ## Resources to become Better Software Engineer
    | Title  | Address  | Reading |
